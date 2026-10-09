@@ -4,6 +4,12 @@ This repository showcases practical networking work completed as part of the Cis
 
 The project was completed using Cisco Packet Tracer and included hands-on configuration, implementation, verification, and troubleshooting of switched, routed, secured, and wireless networks.
 
+## Example Network Topology
+
+The topology below is from the completed Inter-VLAN Routing lab.
+
+![Inter-VLAN Routing topology](inter-vlan-routing-topology.png)
+
 ## Skills and Technologies
 
 - Cisco Packet Tracer
