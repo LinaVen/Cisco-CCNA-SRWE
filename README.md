@@ -69,6 +69,25 @@ During the project, I completed a range of Packet Tracer labs involving:
 
 June 2026 – August 2026
 
+## Verification and Testing
+
+The following Cisco IOS commands can be used to verify network configurations and troubleshoot connectivity issues.
+
+| Command | Purpose |
+|---------|---------|
+| `show vlan brief` | Verify VLANs and assigned switch ports. |
+| `show interfaces trunk` | Check trunk connections and allowed VLANs. |
+| `show etherchannel summary` | Verify EtherChannel status and member interfaces. |
+| `show spanning-tree` | Check STP status and root bridge information. |
+| `show ip interface brief` | Verify interface IP addresses and status. |
+| `show ip route` | Check the IPv4 routing table. |
+| `show ipv6 route` | Check the IPv6 routing table. |
+| `show ip dhcp binding` | Check DHCPv4 address assignments on a Cisco DHCP server. |
+| `show port-security` | Verify switch port security status. |
+| `ping` | Test connectivity between network devices. |
+
+These commands help verify switching, routing, network security, and connectivity across the completed Packet Tracer labs.
+
 ## About
 
 This repository is part of my technical portfolio and demonstrates practical experience gained while completing the Cisco CCNA SRWE networking project.
