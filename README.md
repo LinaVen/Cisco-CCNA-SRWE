@@ -10,6 +10,21 @@ The topology below is from the completed Inter-VLAN Routing lab.
 
 ![Inter-VLAN Routing topology](inter-vlan-routing-topology.png)
 
+## Featured Labs
+
+The following Cisco Packet Tracer labs demonstrate practical experience in configuring, securing, and troubleshooting computer networks.
+
+| Lab | Description |
+|-----|-------------|
+| [Inter-VLAN Routing](4.5.2%20Lab%20-%20Implement%20Inter-VLAN%20Routing.pkt) | Configuring VLANs, trunk links, and inter-VLAN communication using router-on-a-stick. |
+| [EtherChannel](6.4.2%20Lab%20-%20Implement%20EtherChannel.pkt) | Configuring link aggregation between Cisco switches. |
+| [DHCPv4](7.4.2%20Lab%20-%20Implement%20DHCPv4.pkt) | Configuring DHCP services for automatic IPv4 address allocation. |
+| [DHCPv6](8.5.1%20Lab%20-%20Configure%20DHCPv6.pkt) | Configuring IPv6 address allocation and DHCPv6 services. |
+| [Wireless LAN Controller](13.2.7-packet-tracer---configure-a-basic-wlan-on-the-wlc.pkt) | Configuring wireless networks using a Cisco WLC. |
+| [Switch Security](11.6.1-packet-tracer---switch-security-configuration.pkt) | Implementing security features on Cisco switches. |
+
+All labs were completed using Cisco Packet Tracer as part of the CCNA Switching, Routing, and Wireless Essentials (SRWE) project.
+
 ## Skills and Technologies
 
 - Cisco Packet Tracer
