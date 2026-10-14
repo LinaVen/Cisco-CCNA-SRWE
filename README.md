@@ -17,7 +17,7 @@ The following Cisco Packet Tracer labs demonstrate practical experience in confi
 | Lab | Description |
 |-----|-------------|
 | [Inter-VLAN Routing](4.5.2%20Lab%20-%20Implement%20Inter-VLAN%20Routing.pkt) | Configuring VLANs, trunk links, and inter-VLAN communication using router-on-a-stick. |
-| [EtherChannel](6.4.2%20Lab%20-%20Implement%20EtherChannel.pkt) | Configuring link aggregation between Cisco switches. |
+| [EtherChannel](6.2.4-packet-tracer---configure-etherchannel.pka) | Configuring link aggregation between Cisco switches. |
 | [DHCPv4](7.4.2%20Lab%20-%20Implement%20DHCPv4.pkt) | Configuring DHCP services for automatic IPv4 address allocation. |
 | [DHCPv6](8.5.1%20Lab%20-%20Configure%20DHCPv6.pkt) | Configuring IPv6 address allocation and DHCPv6 services. |
 | [Wireless LAN Controller](13.2.7-packet-tracer---configure-a-basic-wlan-on-the-wlc.pkt) | Configuring wireless networks using a Cisco WLC. |
